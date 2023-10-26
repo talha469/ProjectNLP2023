@@ -9,5 +9,5 @@ pip install scikit-learn
 pip install gensim
 pip install numpy
 pip install seaborn
-import fasttext
+import fasttext.util
 fasttext.util.download_model('en', if_exists='ignore')  # English model
