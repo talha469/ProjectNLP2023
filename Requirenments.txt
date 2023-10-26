@@ -1,1 +1,11 @@
 #libraries required for this project
+pip install nltk
+nltk.download('gutenberg')
+pip install pyphen
+pip install matplotlib
+nltk.download('stopwords')
+pip install fasttext
+pip install scikit-learn
+pip install gensim
+pip install numpy
+pip install seaborn
