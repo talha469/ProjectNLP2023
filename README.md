@@ -11,10 +11,14 @@ GitHub repository for semester project of NLP
 2)Add libraries required in requirenments.txt file and add general instructions how to run the code in readme.txt file
 
 #Instruction for running the code
+
 **On local machine**
-  Run requirenment.txt file to download all required libraries and models
-  Run code(task#).py files for specific task
+
+  1) Run requirenment.txt file to download all required libraries and models
+  2) Run code(task#).py files for specific task
+
 **On Google Collab**
-  Kindly run the following collab notebook cell by cell
-  https://colab.research.google.com/drive/1Hdb0FvyhC6OXW6_bJkqw5_WxsnXL-uG6#scrollTo=46kLRQ6eTiuL
+
+  1) Kindly run the following collab notebook cell by cell
+    https://colab.research.google.com/drive/1Hdb0FvyhC6OXW6_bJkqw5_WxsnXL-uG6#scrollTo=46kLRQ6eTiuL
 
