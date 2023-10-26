@@ -1,5 +1,6 @@
 
-![rsz_1rsz_1stocksnap_zminjhnlv1](https://github.com/talha469/ProjectNLP2023/assets/59912447/5fc7ff03-a9f5-432d-9995-274fb91419dd)
+
+![StockSnap_ZMINJHNLV1](https://github.com/talha469/ProjectNLP2023/assets/59912447/47117a45-eaad-4260-9ac1-59f2e68e9003)
 
 
 # ProjectNLP2023
