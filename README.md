@@ -12,13 +12,5 @@ GitHub repository for semester project of NLP
 
 #Instruction for running the code
 
-**On local machine**
-
   1) Run requirenment.txt file to download all required libraries and models
   2) Run code(task#).py files for specific task
-
-**On Google Collab**
-
-  1) Kindly run the following collab notebook cell by cell
-    https://colab.research.google.com/drive/1Hdb0FvyhC6OXW6_bJkqw5_WxsnXL-uG6#scrollTo=46kLRQ6eTiuL
-
