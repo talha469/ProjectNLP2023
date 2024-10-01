@@ -88,8 +88,11 @@ Future extensions of this project may include:
 A comprehensive list of references and scholarly works used in this project can be found in the `references/` folder.
 
 ## Authors
-- Muhammad Ahmed (2304796)
-- Muhammad Talha Arshad (2304797)
-- Saim (2307271)
+- Muhammad Ahmed
+- Muhammad Talha Arshad 
+- Saim
 
-[GitHub Repository](https://github.com/talha469/ProjectNLP2023)
+
+## License
+
+This project is licensed under the MIT License.
