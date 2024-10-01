@@ -7,12 +7,15 @@
 GitHub repository for the semester project of NLP
 
 ## Instructions for Running the Code
-
-1. Install all required libraries and models by running the following command:
+1. Clone the repository
+   ```bash
+     git clone https://github.com/talha469/ProjectNLP2023.git
+   ```
+2. Install all required libraries and models by running the following command:
    ```bash
       pip install -r requirements.txt
     ```
-2. Run the code in the respective task folder to perform specific tasks (organized by task number). Each folder contains the relevant script for the analysis you wish to execute.
+3. Run the code in the respective task folder to perform specific tasks (organized by task number). Each folder contains the relevant script for the analysis you wish to execute.
 
 # Poetry Analysis Using NLP
 
